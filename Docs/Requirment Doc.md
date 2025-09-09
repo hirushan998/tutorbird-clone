@@ -30,7 +30,6 @@ The platform focuses on:
 - View lesson calendar (linked to student).  
 - Receive lesson reminders, homework updates, invoices.  
 - Pay invoices online with receipts and history.  
-- Book lessons based on tutor availability.  
 - Track student progress and homework completion.  
 
 ### Student  
